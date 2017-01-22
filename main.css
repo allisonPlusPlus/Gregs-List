@@ -6,7 +6,6 @@ nav {
 	background-color: #d3d3d3;
 	width: 100%;
 	height: 50px;
-	position: fixed;
     text-align: right;
 	position: relative;
 	}
@@ -14,12 +13,15 @@ nav {
 h1 {
 	position: absolute;
 	left: 10px;
+	font-size: large;
 }
 
 .nav-link {
-	bottom: 30px;
+	position: relative;
+    top: 15px;
+    right: 15px;
 }
-}
+
 
 
 

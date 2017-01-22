@@ -46,6 +46,7 @@ input {
 	height: 20px;
 	margin-left: 40px;
 	margin-right: auto;
+	margin-bottom: 40px;
 	border: 1px solid #d3d3d3;
 	border-radius: 3px;
 	text-align: center;

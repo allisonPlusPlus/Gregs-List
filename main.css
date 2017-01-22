@@ -53,6 +53,11 @@ input {
 	padding-bottom: 5px;
 }
 
+ul {
+	list-style-type: none;
+}
+
+
 .listing-date {
 	color: gray;
 }
@@ -60,4 +65,5 @@ input {
 .listing-location {
 	color: gray;
 }
+
 

@@ -34,7 +34,6 @@ h1 {
 	margin-left: 90px;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	font-size: 0;
 }
 
 input {
@@ -44,11 +43,11 @@ input {
 }
 
 .icon {
-	height: 20px;
+	height: 24px;
 	width: 20px;
 	border: 1px solid #d3d3d3;
 	position: relative;
-	top: 9px;
+	top: 9px
 }
 
 .container {
